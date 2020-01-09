@@ -1,1 +1,1 @@
-Visit www.gerytsv.github.io.git to have a brief look on some of my projects.
+Visit https://gerytsv.github.io/ to have a brief look on some of my projects.
