@@ -3278,7 +3278,7 @@ input[type='button'].small,
   }
 
   .feature .image {
-    float: none;
+    float: none !important;
     height: 15em;
     width: 100%;
   }
@@ -3351,6 +3351,10 @@ input[type='button'].small,
 
 @media screen and (max-width: 480px) {
   /* Section/Article */
+
+  /* .feature.left .image {
+    float: none !important;
+  } */
 
   header.major {
     padding-left: 1em;
